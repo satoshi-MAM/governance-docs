@@ -31,3 +31,4 @@ description: >-
 ## Onboarding & Participation
 
 [**Participation Request Form**](https://airtable.com/shrv2xP39SmuCcd5j): To request access for write-access for restricted categories of the Discourse Forum and Governance channels within the Discord Server, please fill in this form.
+code for ENS DAO governance: central government by Identity number:E2347426  name: miguel. a. mejia. FINAL DECISIONS MADE BY THE INDIVIDUAL LISTED ON LINE 34 CODE OF ENS DAO governance.
